@@ -1,0 +1,38 @@
+.userInfo{
+    float: left;
+    width: 368px;
+    height: 168px;
+}
+.userInfo img{
+    float: left;
+    margin-right: 20px;
+}
+.userInfo strong{
+    font-size: 22px;
+    color: #383838;
+    padding-top: 10px;
+    display: block;
+    line-height: 22px;
+    font-weight: 400;
+}
+.userInfo p{
+    font-size: 16px;
+    color: #878787;
+
+}
+.userInfo li,#fixInfo li,.weibo_haoyou li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.userInfo a{
+    color: #1D77B4;text-decoration: none;
+
+}
+.userInfo em,#fixInfo em,.weibo_haoyou li{
+    font-style: normal;
+    font-weight: bold;
+
+}
+.userInfo a:hover{
+    text-decoration: underline;
+}
